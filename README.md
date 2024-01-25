@@ -14,7 +14,8 @@ I'm not associated with City of Atlanta, but looking to collaborate with people 
   - [UrbaneD0ge/NPU-Cards](https://github.com/UrbaneD0ge/NPU-Cards) (no longer maintained)
 - **NPU RSVP** ([UrbaneD0ge/NPU-RSVP](https://github.com/UrbaneD0ge/NPU-RSVP))
 - **Voting Form** ([UrbaneD0ge/VotingForm](https://github.com/UrbaneD0ge/VotingForm)): An online tool for the Atlanta Department of City Planning to generate and submit NPU voting report forms.
-- **atlanta-npu** (this repo)
+- **atlanta-npu** (this repo) - also, using [Civic Tech Atlanta](https://www.codeforatlanta.org/)'s Slack channel #atl-npu-tech
+- **NPU O Improvements** ([/npu-o](npu-o))
 
 ## How do I?
 
@@ -30,4 +31,6 @@ I'm not associated with City of Atlanta, but looking to collaborate with people 
   - Contact your NPU & Neighborhood Organization leaders: https://www.atlantaga.gov/government/departments/city-planning/neighborhood-and-npu-contacts
   - Read about the NPU system: https://en.wikipedia.org/wiki/Neighborhood_planning_unit
   - Attend NPU University to learn about the system
-- **..Contribute to ATL NPU tech projects**: Go to the GitHub repository you have an idea for click "Issues", then "New Issue".  Describe your request there, and you can attach whatever files or images.  If you're experienced with GitHub, you can also Fork the repo, add some changes, and pull request them in
+- **..Contribute to ATL NPU tech projects**
+  - Here, in GitHub: Go to the GitHub repository you have an idea for click "Issues", then "New Issue".  Describe your request there, and you can attach whatever files or images.  If you're experienced with GitHub, you can also Fork the repo, add some changes, and pull request them in
+  - In real world: Find your NPU's leaders (see link above) and ask about their pain points & how you can help with their website / tech
