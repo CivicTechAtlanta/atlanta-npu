@@ -1,13 +1,11 @@
-# NPU Online Communities
-
-Capturing this list, to help NPU's know where people in the city engage online around issues affecting neighborhoods in Atlanta
+# Data and Websites
 
 ## City-wide
 
 - Nextdoor: https://www.nextdoor.com
 - Neighbors by Ring: https://www.ring.com/neighbors
 
-## By NPU
+## NPU and Neighborhood
 
 ### NPU O
 
